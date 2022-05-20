@@ -13,7 +13,7 @@ In this project I used Golang to build a cache that has the most recent items on
 ## Executing program
 * Download the repository to your computer and go to project file
 ```
-git clone https://github.com/mobenh/Golang-MongoDB
+git clone https://github.com/mobenh/cache-project
 cd Golang-MongoDB
 ```
 * Edit line 7 for the size of the queue
