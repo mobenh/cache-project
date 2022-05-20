@@ -14,7 +14,7 @@ In this project I used Golang to build a cache that has the most recent items on
 * Download the repository to your computer and go to project file
 ```
 git clone https://github.com/mobenh/cache-project
-cd Golang-MongoDB
+cd cache-project
 ```
 * Edit line 7 for the size of the queue
 * Edit line 103 for the items in the queue
